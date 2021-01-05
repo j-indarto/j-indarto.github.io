@@ -1,0 +1,8 @@
+name: "indarto-website"
+navbar:
+  title: "Jarot Indarto"
+  left: 
+    - text: "Home"
+      href: index.html
+    - text: "Dasar R"
+      href: dasar_r.html
